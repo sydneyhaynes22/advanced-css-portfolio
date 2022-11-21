@@ -8,3 +8,25 @@ body {
   background-color: lavenderblush;
 }
 
+nav {
+justify-content: right;
+font-size: 24px;
+}
+
+.container > header {
+padding:20px;
+background-color:lightskyblue;
+color: white;
+display: flex;
+justify-content: center;
+}
+
+nav a{
+  margin-left:16px;
+  text-decoration: none;
+}
+
+header{
+  display: flex;
+  flex-direction: column;
+}
