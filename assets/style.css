@@ -53,6 +53,7 @@ header a {
 }
 
 footer{
+text-align: center;
 margin-bottom: 25px;
 padding:20px;
 background-color:rgb(91, 114, 145);
@@ -85,6 +86,11 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 {
   font-family: Georgia, 'Times New Roman', Times, serif;
   margin: 10px;
+  color:black
+}
+
+#Contact a:hover{
+  color: pink;
 }
 
 #prework{
@@ -113,4 +119,11 @@ article img{
 
 #h2about{
   font-size: 50px;
+  text-align: center;
+}
+
+#hi{
+  margin-right:100px ;
+  margin-left: 25px;
+  font-size: 30px;
 }
