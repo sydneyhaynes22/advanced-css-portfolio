@@ -1,0 +1,10 @@
+body {
+  background-color: whitesmoke;
+}
+
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
+  background-color: lavenderblush;
+}
+
