@@ -9,8 +9,9 @@ body {
 }
 
 nav {
-justify-content: right;
 font-size: 24px;
+display: flex;
+justify-content: flex-end;
 }
 
 .container > header {
@@ -18,12 +19,12 @@ padding:20px;
 background-color:rgb(91, 114, 145);
 color: white;
 display: flex;
-font-size: 150%;
+font-size: 30px;
 justify-content: space-between;
 }
 
 nav a{
-  margin-left:12px;
+  margin-left:55px;
   text-decoration: none;
   color: black;
 }
@@ -67,7 +68,7 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 #me {
   height: 300px;
   width: 200px;
-  margin-left: 50px;
+  margin-left: 80px;
   margin-right: 20px;
 }
 
@@ -127,3 +128,17 @@ article img{
   margin-left: 25px;
   font-size: 30px;
 }
+
+@media screen and (max-width: 768px){
+  body,p{
+    font-size: 16px;
+    line-height: 20px;
+  }
+}
+
+@media screen and  (max-width:768px){
+  header{
+    font-size: 20px;
+  }
+}
+
