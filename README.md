@@ -1,6 +1,6 @@
 # Professional-Portfolio
 
-[Link to my project](https://www.google.com)
+[Link to my project](https://sydneyhaynes22.github.io/professional-portfolio/)
 
 ## Table of Contents
 - [Description](#description)
